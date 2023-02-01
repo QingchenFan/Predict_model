@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fanqingchen@10.12.100.88:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="fanqingchen@10.12.100.88:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cuizaixu_lab/fanqingchen/DATA/Code/PLSR_Prediction" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fanqingchen@10.12.100.88:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cuizaixu_lab/fanqingchen/DATA/Code/PLSR_Prediction" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fanqingchen@10.12.100.88:22 password (script)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cuizaixu_lab/fanqingchen/DATA/Code/PLSR_Prediction" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
